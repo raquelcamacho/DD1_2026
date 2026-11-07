@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/DD1_2026/proyectos_modelsim/AIP2
+Edecodbcd7seg
+w1794041598
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+dF:/DD1_2026/MODELSIM/Proy_AIP2
+8F:/DD1_2026/MODELSIM/Proy_AIP2/hdl/decodBCD7seg.vhd
+FF:/DD1_2026/MODELSIM/Proy_AIP2/hdl/decodBCD7seg.vhd
+l0
+L13
+VgTnl^ScTN>PV]>Knl[j9=2
+!s100 BJnHb3UR8N2KzEB:7>2553
+OV;C;10.4d;61
+32
+!s110 1794041776
+!i10b 1
+!s108 1794041776.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/DD1_2026/MODELSIM/Proy_AIP2/hdl/decodBCD7seg.vhd|
+!s107 F:/DD1_2026/MODELSIM/Proy_AIP2/hdl/decodBCD7seg.vhd|
+!i113 1
+o-work work -2002 -explicit
+tExplicit 1

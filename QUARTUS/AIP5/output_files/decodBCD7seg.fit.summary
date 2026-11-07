@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sat Oct 03 09:31:41 2026
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : decodBCD7seg
+Top-level Entity Name : decodBCD7seg
+Family : MAX 10
+Device : 10M08SAU169C8G
+Timing Models : Final
+Total logic elements : 8 / 8,064 ( < 1 % )
+    Total combinational functions : 8 / 8,064 ( < 1 % )
+    Dedicated logic registers : 0 / 8,064 ( 0 % )
+Total registers : 0
+Total pins : 11 / 130 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 0 / 387,072 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 48 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )
