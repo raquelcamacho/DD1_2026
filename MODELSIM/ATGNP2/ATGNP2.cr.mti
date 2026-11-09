@@ -1,0 +1,43 @@
+F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodBCDn7seg_nLT.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodBCDn7seg_nLT.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decodBCDn7seg_nLT
+-- Compiling architecture rtl of decodBCDn7seg_nLT
+
+} {} {}} F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodBCD7seg_nBI.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodBCD7seg_nBI.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decodBCD7seg_nBI
+-- Compiling architecture rtl of decodBCD7seg_nBI
+
+} {} {}} F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodHex7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodHex7seg.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decodHex7seg
+-- Compiling architecture rtl of decodHex7seg
+
+} {} {}} F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_decodBCDn7seg_nLT
+-- Compiling architecture test of test_decodBCDn7seg_nLT
+-- Loading entity decodBCDn7seg_nLT
+
+} {} {}} F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCD7seg_nBI.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCD7seg_nBI.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_decodBCD7seg_nBI
+-- Compiling architecture test of test_decodBCD7seg_nBI
+-- Loading entity decodBCD7seg_nBI
+
+} {} {}}

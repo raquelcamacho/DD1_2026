@@ -1,0 +1,27 @@
+
+-- Test-Bench de un decodificador
+-- BCD a 7 segmentos realizado para
+-- el tutorial de la actividad AIP3
+-- (29-3-2011)
+
+-- Cláusulas de visibilidad
+library ieee;
+use ieee.std_logic_1164.all;
+
+-- Declaración de Entidad sin puertos
+entity tb_decodBCD7seg is
+end entity;
+
+architecture test of tb_decodBCD7seg is
+    signal digBCD:  std_logic_vector(3 downto 0); -- Estímulo
+    signal segDisp: std_logic_vector(6 downto 0); -- Respuesta
+begin
+
+    -- Modelo a verificar: decodificador BCD a 7 segmentos
+    dut: entity Work.decodBCD7seg(rtl)
+        port map(digBCD  => digBCD,
+                 segDisp => segDisp);
+
+end architecture;
+
+

@@ -1,0 +1,32 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity test_decodBCDn7seg_nLT is
+end entity;
+
+architecture test of test_decodBCDn7seg_nLT is
+  signal nLT      : std_logic;                     -- (1) Tipos de datos  
+  signal digBCD   : std_logic_vector(3 downto 0);  
+  signal nSegDisp : std_logic_vector(6 downto 0);
+  
+begin
+  dut: entity Work.decodBCDn7seg_nLT(rtl)      -- (2) Lista de conexión
+       port map(nLT     =>    nLT,
+                digBCD  =>   digBCD,
+                nSegDisp => nSegDisp);
+                                
+  process
+  begin
+    nLT    <= '1';                             -- (3) Manejo de estímulos
+    digBCD <= "0110";
+    wait for 20 ns;
+    nLT    <= '0';
+    digBCD <= "1000";
+    wait for 20 ns;
+    nLT    <= '1';
+    digBCD <= "0101";
+    wait for 10 ns;
+    digBCD <= "0000";
+    wait;            
+  end process;               
+end test;

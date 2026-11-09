@@ -1,0 +1,64 @@
+-- Modelo incompleto de un decodificador BCD a 7 
+-- segmentos con entrada de Lamp Test
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity decodBCDn7seg_nLT is
+port(
+     nLT:    in std_logic;                       -- Declaración de la entrada 
+                                                 -- de control de encendido de LEDs
+     digBCD:  in std_logic_vector(3 downto 0);
+     nSegDisp : buffer std_logic_vector(6 downto 0) -- Etiqueta de las salidas activas a
+                                                 -- nivel bajo.
+   );
+end entity;
+
+architecture rtl of decodBCDn7seg_nLT is
+begin
+  process(digBCD, nLT)
+  begin
+    if  nLT = '0' then                          -- Fórmula de selección de la entrada de
+                                                 -- control
+      nSegDisp <= (others => '0');
+      
+    else
+      case digBCD is
+       when "0000" =>  
+         nSegDisp <= "0000001"; 
+       when "0001" =>  
+         nSegDisp <= "1001111";
+       when "0010" =>  
+         nSegDisp <= "0010010";
+       when "0011" =>
+         nSegDisp <= "0000110";
+       when "0100" =>
+         nSegDisp <= "1001100";
+       when "0101" =>
+         nSegDisp <= "0100100";
+       when "0110" =>
+         nSegDisp <= "0100000";
+       when "0111" =>
+         nSegDisp <= "0001111";
+       when "1000" =>
+         nSegDisp <= "0000000";
+       when "1001" =>
+         nSegDisp <= "0001100";
+       when "1010" =>
+         nSegDisp <= "1111111";         
+       when "1011" =>
+         nSegDisp <= "1111111";         
+       when "1100" =>
+         nSegDisp <= "1111111";         
+       when "1101" =>
+         nSegDisp <= "1111111";         
+       when "1110" =>
+         nSegDisp <= "1111111";         
+       when "1111" =>
+         nSegDisp <= "1111111";             
+       when        =>               -- ¿Y aqui? 
+         nSegDisp <= (others => 'X');
+      end case;
+    end if;
+  end process;
+end rtl;
