@@ -7,7 +7,7 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dF:/DD1_2026/MODELSIM/Proy_AIP2
+dC:/altera/16.0
 Edecodbcd7seg_nbi
 Z0 w1794218212
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
@@ -21,9 +21,9 @@ VWa5j>K_UmgciB19k:^UH[1
 !s100 ATSj>W9QkO>]jRoke6DD=2
 Z6 OV;C;10.4d;61
 32
-Z7 !s110 1794220676
+Z7 !s110 1794237199
 !i10b 1
-Z8 !s108 1794220676.000000
+Z8 !s108 1794237199.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodBCD7seg_nBI.vhd|
 Z10 !s107 F:/DD1_2026/MODELSIM/ATGNP2/hdl/decodBCD7seg_nBI.vhd|
 !i113 1
@@ -138,11 +138,11 @@ V[2MS=KBlhz@aYjGo57gYP2
 !s100 PHb1gmW9mEz1_?EDFkOhI1
 R6
 32
-Z28 !s110 1794220677
+Z28 !s110 1794237200
 !i10b 1
-Z29 !s108 1794220677.000000
-Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCD7seg_nBI.vhd|
-Z31 !s107 F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCD7seg_nBI.vhd|
+R8
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCD7seg_nBI.vhd|
+Z30 !s107 F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCD7seg_nBI.vhd|
 !i113 1
 R11
 R12
@@ -150,28 +150,28 @@ Atest
 R13
 R1
 R2
-Z32 DEx4 work 21 test_decodbcd7seg_nbi 0 22 [2MS=KBlhz@aYjGo57gYP2
+DEx4 work 21 test_decodbcd7seg_nbi 0 22 [2MS=KBlhz@aYjGo57gYP2
 l11
 L7
-Z33 VP^31hd<2o>lEz;N]iNCRN2
-Z34 !s100 L7XBedRi`M6e03Yjde5RB3
+VP^31hd<2o>lEz;N]iNCRN2
+!s100 L7XBedRi`M6e03Yjde5RB3
 R6
 32
 R28
 !i10b 1
+R8
 R29
 R30
-R31
 !i113 1
 R11
 R12
 Etest_decodbcdn7seg_nlt
-Z35 w1794220280
+Z31 w1794220280
 R1
 R2
 R3
-Z36 8F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd
-Z37 FF:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd
+Z32 8F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd
+Z33 FF:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd
 l0
 L4
 V=S:S9D><2R3X>cUNk0fNH2
@@ -180,9 +180,9 @@ R6
 32
 R28
 !i10b 1
-R29
-Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd|
-Z39 !s107 F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd|
+Z34 !s108 1794237200.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd|
+Z36 !s107 F:/DD1_2026/MODELSIM/ATGNP2/modelsim/test_decodBCDn7seg_nLT.vhd|
 !i113 1
 R11
 R12
@@ -199,9 +199,9 @@ R6
 32
 R28
 !i10b 1
-R29
-R38
-R39
+R34
+R35
+R36
 !i113 1
 R11
 R12

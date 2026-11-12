@@ -1,0 +1,488 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/DD1_2026/MODELSIM/ANP1_selector
+Edecod_2bits
+Z0 w1794244168
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dF:/DD1_2026/MODELSIM/ANP1_decodificador
+Z4 8F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_2bits.vhd
+Z5 FF:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_2bits.vhd
+l0
+L4
+Vz7EB:`CzjTOkgiTz6mWee2
+!s100 JH@e1R;bdXOJM[VCUF4G83
+Z6 OV;C;10.4d;61
+32
+Z7 !s110 1794247106
+!i10b 1
+Z8 !s108 1794247106.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_2bits.vhd|
+Z10 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_2bits.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Artl
+R1
+R2
+Z13 DEx4 work 11 decod_2bits 0 22 z7EB:`CzjTOkgiTz6mWee2
+l12
+L11
+V5K4<EenbAPZ<z=n`6Dh@m3
+!s100 8gkaf:bFjURa@_3D_Zf[o1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edecod_3bits
+Z14 w1794244830
+R1
+R2
+R3
+Z15 8F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits.vhd
+Z16 FF:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits.vhd
+l0
+L4
+Vz8naX2Yo[aQ=TRmQ<e3_e2
+!s100 ?9HHHVE>gn2mb:D8KPj_e3
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits.vhd|
+Z18 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+Z19 DEx4 work 11 decod_3bits 0 22 z8naX2Yo[aQ=TRmQ<e3_e2
+l12
+L11
+VhE[Eejd^VQX34f6X@DBhG0
+!s100 nzCcc5AX?>F@N@mJM[i[60
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Edecod_3bits_ena
+Z20 w1794245434
+R1
+R2
+R3
+Z21 8F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits_ena.vhd
+Z22 FF:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits_ena.vhd
+l0
+L4
+VY392>0_EfK2iW`QQR>g]f0
+!s100 5LCMT6^:aYc]R^KN5=FY`1
+R6
+32
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits_ena.vhd|
+Z24 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits_ena.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+Z25 DEx4 work 15 decod_3bits_ena 0 22 Y392>0_EfK2iW`QQR>g]f0
+l13
+L12
+V?<>:XANjaThfOnXkHU^041
+!s100 23gR<T3Zf^G@@46d1GBKR2
+R6
+32
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12
+Edetector_3_unos
+Z26 w1794246708
+R1
+R2
+R3
+Z27 8F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_3unos.vhd
+Z28 FF:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_3unos.vhd
+l0
+L4
+VLKjUmz:Kdk^=hlkNge=ER2
+!s100 [B?>6fMYHe8=ZFB8=9B>[2
+R6
+32
+Z29 !s110 1794247107
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_3unos.vhd|
+Z31 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_3unos.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+Z32 DEx4 work 15 detector_3_unos 0 22 LKjUmz:Kdk^=hlkNge=ER2
+l12
+L11
+VjcGVkJBEoVRV[PRl9Po2=0
+!s100 Ie=JjBPoY`oXL8Q=2Gb=P0
+R6
+32
+R29
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Edetector_98
+Z33 w1794245818
+R1
+R2
+R3
+Z34 8F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_98.vhd
+Z35 FF:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_98.vhd
+l0
+L4
+VF:_aWo787CWKQQOY6[Bgo2
+!s100 Oeh2JRQiPHhk>CjjH_gd<3
+R6
+32
+R7
+!i10b 1
+R8
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_98.vhd|
+Z37 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_98.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+Z38 DEx4 work 11 detector_98 0 22 F:_aWo787CWKQQOY6[Bgo2
+l12
+L11
+V;CJW[YhOY:>5MQf;;4]gh1
+!s100 d7KZ6KBKO>HXz^eaGCQR52
+R6
+32
+R7
+!i10b 1
+R8
+R36
+R37
+!i113 1
+R11
+R12
+Edetector_minusculas
+Z39 w1794246854
+Z40 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z41 8F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_minusculas.vhd
+Z42 FF:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_minusculas.vhd
+l0
+L5
+V57fhF08`@jh>4Kl]SHHIT2
+!s100 9V`BTzRS0_RP^]4I5><MJ0
+R6
+32
+R29
+!i10b 1
+Z43 !s108 1794247107.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_minusculas.vhd|
+Z45 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_minusculas.vhd|
+!i113 1
+R11
+R12
+Artl
+R40
+R1
+R2
+Z46 DEx4 work 19 detector_minusculas 0 22 57fhF08`@jh>4Kl]SHHIT2
+l13
+L12
+VkhT6_7ZH2J[cl@eTJecb^0
+!s100 0i@WYYBo6BFXa2ITR2zZZ2
+R6
+32
+R29
+!i10b 1
+R43
+R44
+R45
+!i113 1
+R11
+R12
+Etb_decod_2bits
+Z47 w1794244222
+R1
+R2
+R3
+Z48 8F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_2bits.vhd
+Z49 FF:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_2bits.vhd
+l0
+L5
+Va]441Db[7KaAY6n;b4:kY0
+!s100 4]h?O?B7<BGN9EA2[cDo12
+R6
+32
+R7
+!i10b 1
+R8
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_2bits.vhd|
+Z51 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_2bits.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+DEx4 work 14 tb_decod_2bits 0 22 a]441Db[7KaAY6n;b4:kY0
+l12
+L8
+VSE9UL[<mRDH>QjZ@H1La?2
+!s100 QD[Vid5Vm?OW<]_Z71^7N0
+R6
+32
+R7
+!i10b 1
+R8
+R50
+R51
+!i113 1
+R11
+R12
+Etb_decod_3bits
+Z52 w1794244854
+R1
+R2
+R3
+Z53 8F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits.vhd
+Z54 FF:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits.vhd
+l0
+L5
+VB`n601<IWIzK;Fn@mdL7U3
+!s100 M;=HJ]T_z:HRmB8;7EYHH2
+R6
+32
+R7
+!i10b 1
+R8
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits.vhd|
+Z56 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits.vhd|
+!i113 1
+R11
+R12
+Atest
+R19
+R1
+R2
+DEx4 work 14 tb_decod_3bits 0 22 B`n601<IWIzK;Fn@mdL7U3
+l12
+L8
+VMebUk14RD9d=3TD>Z<lEl1
+!s100 KWDj`=zDl[Qi8<QF^^BEF2
+R6
+32
+R7
+!i10b 1
+R8
+R55
+R56
+!i113 1
+R11
+R12
+Etb_decod_3bits_ena
+Z57 w1794245362
+R1
+R2
+R3
+Z58 8F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits_ena.vhd
+Z59 FF:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits_ena.vhd
+l0
+L5
+VDK;:5^L1f>mbG1nB5PYoh2
+!s100 d;47K?cdn>Je?Hb:Q;Y@E3
+R6
+32
+R7
+!i10b 1
+R8
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits_ena.vhd|
+Z61 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits_ena.vhd|
+!i113 1
+R11
+R12
+Atest
+R25
+R1
+R2
+DEx4 work 18 tb_decod_3bits_ena 0 22 DK;:5^L1f>mbG1nB5PYoh2
+l13
+L8
+V5I4OQALI[?]BLo@3]<c@A3
+!s100 HaCzkVU_:3lNnWWEndFQ[3
+R6
+32
+R7
+!i10b 1
+R8
+R60
+R61
+!i113 1
+R11
+R12
+Etb_detector_3_unos
+R26
+R1
+R2
+R3
+Z62 8F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_3unos.vhd
+Z63 FF:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_3unos.vhd
+l0
+L4
+Vb_`zh8hPZLIG`L=;mj2hm3
+!s100 JWAb42@TE0Q]d55][l`f42
+R6
+32
+R29
+!i10b 1
+R43
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_3unos.vhd|
+Z65 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_3unos.vhd|
+!i113 1
+R11
+R12
+Atest
+R32
+R1
+R2
+DEx4 work 18 tb_detector_3_unos 0 22 b_`zh8hPZLIG`L=;mj2hm3
+l10
+L7
+Vand1gdV3BA^CooE7T<F0D0
+!s100 50668z6CbG3ULXOaH7oJc1
+R6
+32
+R29
+!i10b 1
+R43
+R64
+R65
+!i113 1
+R11
+R12
+Etb_detector_98
+Z66 w1794245838
+R1
+R2
+R3
+Z67 8F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_98.vhd
+Z68 FF:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_98.vhd
+l0
+L4
+VZ7n;_a9S>]=7TXBVBBC6z3
+!s100 oRmY9z2l7BEF9DOf2jX5K2
+R6
+32
+R7
+!i10b 1
+R8
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_98.vhd|
+Z70 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_98.vhd|
+!i113 1
+R11
+R12
+Atest
+R38
+R1
+R2
+DEx4 work 14 tb_detector_98 0 22 Z7n;_a9S>]=7TXBVBBC6z3
+l10
+L7
+V9A`N`nSO4m`dnlAOU1_aT1
+!s100 Kei7NN^;;AIb5iCFRl^^<1
+R6
+32
+R7
+!i10b 1
+R8
+R69
+R70
+!i113 1
+R11
+R12
+Etb_detector_minusculas
+R39
+R40
+R1
+R2
+R3
+Z71 8F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_minusculas.vhd
+Z72 FF:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_minusculas.vhd
+l0
+L5
+VMI?5@c]`U3aNk^<>?LgjO0
+!s100 7^HdA8^=cdQDbVbRZ[zdo0
+R6
+32
+R29
+!i10b 1
+R43
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_minusculas.vhd|
+Z74 !s107 F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_minusculas.vhd|
+!i113 1
+R11
+R12
+Atest
+R46
+R40
+R1
+R2
+DEx4 work 22 tb_detector_minusculas 0 22 MI?5@c]`U3aNk^<>?LgjO0
+l11
+L8
+VYzc]8m`63=C_cTg90i2hl2
+!s100 HJKn1oA3FP4Eb:[RUfD5g1
+R6
+32
+R29
+!i10b 1
+R43
+R73
+R74
+!i113 1
+R11
+R12

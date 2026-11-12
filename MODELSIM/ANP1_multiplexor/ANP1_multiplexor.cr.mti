@@ -1,0 +1,35 @@
+F:/DD1_2026/MODELSIM/ANP1_multiplexor/modelsim/tb_mux_4canales.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_multiplexor\modelsim\tb_mux_4canales.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_mux_4canales
+-- Compiling architecture test of test_mux_4canales
+-- Loading entity mux_4canales
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_multiplexor/modelsim/tb_mux_8canales.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ANP1_multiplexor/modelsim/tb_mux_8canales.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_mux_8canales
+-- Compiling architecture test of test_mux_8canales
+-- Loading entity mux_8canales
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_multiplexor/hdl/mux_4canales.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/DD1_2026/MODELSIM/ANP1_multiplexor/hdl/mux_4canales.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_4canales
+-- Compiling architecture rtl of mux_4canales
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_multiplexor/hdl/mux_8canales.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_multiplexor\hdl\mux_8canales.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_8canales
+-- Compiling architecture rtl of mux_8canales
+
+} {} {}}

@@ -1,0 +1,105 @@
+F:/DD1_2026/MODELSIM/ANP1_decodificador/modelsim/tb_decod_3bits.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_decod_3bits
+-- Compiling architecture test of tb_decod_3bits
+-- Loading entity decod_3bits
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/hdl/detector_98.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_98.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity detector_98
+-- Compiling architecture rtl of detector_98
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/modelsim/tb_detector_minusculas.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_minusculas.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_detector_minusculas
+-- Compiling architecture test of tb_detector_minusculas
+-- Loading entity detector_minusculas
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/hdl/decod_3bits_ena.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits_ena.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decod_3bits_ena
+-- Compiling architecture rtl of decod_3bits_ena
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/modelsim/tb_detector_3unos.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_3unos.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_detector_3_unos
+-- Compiling architecture test of tb_detector_3_unos
+-- Loading entity detector_3_unos
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/modelsim/tb_detector_98.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_detector_98.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_detector_98
+-- Compiling architecture test of tb_detector_98
+-- Loading entity detector_98
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/hdl/detector_3unos.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_3unos.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity detector_3_unos
+-- Compiling architecture rtl of detector_3_unos
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/hdl/decod_2bits.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_2bits.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decod_2bits
+-- Compiling architecture rtl of decod_2bits
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/hdl/decod_3bits.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\decod_3bits.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decod_3bits
+-- Compiling architecture rtl of decod_3bits
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/modelsim/tb_decod_3bits_ena.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_3bits_ena.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_decod_3bits_ena
+-- Compiling architecture test of tb_decod_3bits_ena
+-- Loading entity decod_3bits_ena
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/hdl/detector_minusculas.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\hdl\detector_minusculas.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity detector_minusculas
+-- Compiling architecture rtl of detector_minusculas
+
+} {} {}} F:/DD1_2026/MODELSIM/ANP1_decodificador/modelsim/tb_decod_2bits.vhd {1 {vcom -work work -2002 -explicit -stats=none {F:\DD1_2026\MODELSIM\ANP1_decodificador\modelsim\tb_decod_2bits.vhd}
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_decod_2bits
+-- Compiling architecture test of tb_decod_2bits
+-- Loading entity decod_2bits
+
+} {} {}}

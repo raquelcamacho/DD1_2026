@@ -1,0 +1,36 @@
+entity selector_datos is
+    port(
+        E0  : in  std_logic_vector(7 downto 0);
+        E1  : in  std_logic_vector(7 downto 0);
+        E2  : in  std_logic_vector(7 downto 0);
+        E3  : in  std_logic_vector(7 downto 0);
+        Dir : in  std_logic_vector(1 downto 0);
+        ena : in  std_logic;
+        inv : in  std_logic;
+        S   : buffer std_logic_vector(7 downto 0) -- <-- Cambiado a buffer
+    );
+end entity;
+
+architecture rtl of selector_datos is
+begin
+    process(E0, E1, E2, E3, Dir, ena, inv)
+    begin
+        if ena = '0' then
+            S <= (others => '0');
+        else
+            -- Seleccionamos directamente sobre S
+            case Dir is
+                when "00"   => S <= E0;
+                when "01"   => S <= E1;
+                when "10"   => S <= E2;
+                when "11"   => S <= E3;
+                when others => S <= (others => 'X');
+            end case;
+
+            -- Si luego hay que invertirlo, le damos la vuelta a S
+            if inv = '1' then
+                S <= not S; 
+            end if;
+        end if;
+    end process;
+end architecture rtl;

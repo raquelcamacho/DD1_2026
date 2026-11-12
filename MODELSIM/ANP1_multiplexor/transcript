@@ -1,0 +1,21 @@
+# Reading C:/altera/16.0/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile F:/DD1_2026/MODELSIM/ANP1_multiplexor/ANP1_multiplexor.mpf
+# Loading project ANP1_multiplexor
+# Error opening F:/DD1_2026/MODELSIM/ANP1/modelsim/tb_mux_4canales.vhd
+# Path name 'F:/DD1_2026/MODELSIM/ANP1/modelsim/tb_mux_4canales.vhd' doesn't exist.
+# Error opening F:\DD1_2026\MODELSIM\ANP1\modelsim\tb_mux_8canales.vhd
+# Path name 'F:\DD1_2026\MODELSIM\ANP1\modelsim\tb_mux_8canales.vhd' doesn't exist.
+# Error opening F:\DD1_2026\MODELSIM\ANP1\hdl\mux_4canales.vhd
+# Path name 'F:\DD1_2026\MODELSIM\ANP1\hdl\mux_4canales.vhd' doesn't exist.
+# Error opening F:\DD1_2026\MODELSIM\ANP1\hdl\mux_8canales.vhd
+# Path name 'F:\DD1_2026\MODELSIM\ANP1\hdl\mux_8canales.vhd' doesn't exist.
+# Compile of mux_4canales.vhd was successful.
+# Compile of mux_8canales.vhd was successful.
+# Compile of tb_mux_4canales.vhd was successful.
+# Compile of tb_mux_8canales.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of mux_4canales.vhd was successful.
+# Compile of mux_8canales.vhd was successful.
+# Compile of tb_mux_4canales.vhd was successful.
+# Compile of tb_mux_8canales.vhd was successful.
+# 4 compiles, 0 failed with no errors.
